@@ -17,3 +17,6 @@ view group中重寫onTouchEvent()實現垂直滾動的邏輯，還有黏性的�
 
 ↓ 彈到第二屏<br>
 ![Example1](pic3.jpg)
+
+App download ↓ <br>
+https://drive.google.com/open?id=0B0csiWXavBDHaWNHRjh1Rl9PQ2c
